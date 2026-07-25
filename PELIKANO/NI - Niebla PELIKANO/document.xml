@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<materialDocument xmlns="http://sketchup.google.com/schemas/sketchup/1.0/material" xmlns:mat="http://sketchup.google.com/schemas/sketchup/1.0/material" xmlns:r="http://sketchup.google.com/schemas/1.0/references" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://sketchup.google.com/schemas/sketchup/1.0/material http://sketchup.google.com/schemas/sketchup/1.0/material.xsd">
+  <mat:material name="NI - Niebla PELIKANO" type="1" workflow="0" colorRed="230" colorGreen="223" colorBlue="213" colorizeType="0" trans="0.5" useTrans="0" hasTexture="1">
+    <mat:texture textureFilename="NI - Niebla PELIKANO.jpg" xScale="59.921259842519689" yScale="124.01574803149607" avgColor="4292206566">
+      <mat:images>
+        <mat:image id="1" path="NI - Niebla PELIKANO_1.jpg" file_name="NI - Niebla PELIKANO.jpg" />
+      </mat:images>
+    </mat:texture>
+  </mat:material>
+</materialDocument>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<materialDocument xmlns="http://sketchup.google.com/schemas/sketchup/1.0/material" xmlns:mat="http://sketchup.google.com/schemas/sketchup/1.0/material" xmlns:r="http://sketchup.google.com/schemas/1.0/references" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://sketchup.google.com/schemas/sketchup/1.0/material http://sketchup.google.com/schemas/sketchup/1.0/material.xsd">
+  <mat:material name="RO - Rovere PELIKANO" type="1" workflow="0" colorRed="182" colorGreen="158" colorBlue="132" colorizeType="0" trans="0.5" useTrans="0" hasTexture="1">
+    <mat:texture textureFilename="RO - Rovere PELIKANO.jpg" xScale="48.346456692913385" yScale="102.36220472440945" avgColor="4286881462">
+      <mat:images>
+        <mat:image id="1" path="RO - Rovere PELIKANO_1.jpg" file_name="RO - Rovere PELIKANO.jpg" />
+      </mat:images>
+    </mat:texture>
+  </mat:material>
+</materialDocument>
